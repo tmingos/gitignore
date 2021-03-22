@@ -1,3 +1,28 @@
+# --------------
+# PART 1: macOS
+# --------------
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# ----------------
+# PART 2: PyCharm
+# ----------------
+
+.idea
+
+# ----------------
+# PART 3: Python
+# ----------------
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
